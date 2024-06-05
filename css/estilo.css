@@ -1,0 +1,20 @@
+#contenedor-full {
+    min-height: 100%;
+    padding: 10px;
+}
+
+body {
+    margin-inline: 100px;
+    padding: 0px;
+    text-align: center;
+    background-image: linear-gradient(yellow, red);
+}
+
+#main-container {
+    background-color: rgb(217, 217, 217);
+    border-radius: 8px;
+}
+
+#boton, #agregar {
+    background-image: linear-gradient(yellow, red);
+}
